@@ -1,21 +1,21 @@
-Context
+**Context**
 
 Many studies have been undertaken in the past on factors affecting life expectancy, considering demographic variables, income composition, and mortality rates. It was found that the effect of immunization and human development index was not taken into account in the past studies, and important immunizations like Hepatitis B, Polio, and Diphtheria should also be taken into account. In this case study, we will consider immunization factors, mortality factors, economic factors, social factors, and other health-related factors and use linear regression to see the effect of those factors on Life Expectancy across developed and developing countries across the continents.
 
-Objective
+**Objective**
 
 To analyze the data and build a linear regression model that can predict the life expectancy of the people of a country.
 
-Key Questions
+**Key Questions**
 
 Does life expectancy have a positive or negative correlation with the different factors (immunization, mortality, socio-economic, etc.) taken into consideration for the countries?
 Can we build a linear model to predict life expectancy? If yes, how accurate will the model be?
 
-Data Description
+**Data Description**
 
 The dataset contains immunization factors, mortality factors, economic factors, social factors, and other health-related factors for different countries across different years.
 
-Data Dictionary
+**Data Dictionary**
 
 Country: Country
 
